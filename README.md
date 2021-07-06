@@ -16,7 +16,7 @@
 
 ![抖动的雪球君](教你如何用%20PPT%20制作抖动的雪球君.assets/vfxkbyqa.gif)
 
-相信看完后你也能够收获一只（一对？）抖动的雪球君![img](https://www.cc98.org/static/images/98LOGO.ico)👈找到我了吗？
+相信看完后你也能够收获一只（一对？）抖动的雪球君![img](教你如何用%20PPT%20制作抖动的雪球君.assets/98LOGO.ico)👈找到我了吗？
 
 ## 🛠️准备工作
 
