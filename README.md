@@ -1,6 +1,6 @@
 # 教你如何用 PPT 制作炫酷抖动的雪球君
 
->  ⚠️请使用 CC98 网页版浏览本帖，小程序无法正常渲染本帖
+>  ⚠️请使用 CC98 网页版或者到 [GitHub](https://github.com/Sec-ant/GlitchXueQiuJun/blob/main/README.md) 浏览本帖，小程序无法正常渲染本帖。
 
 前两天刚刚给 NexusHD 更换了一个头图，效果如下：
 
