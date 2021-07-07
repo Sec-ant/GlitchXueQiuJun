@@ -28,7 +28,7 @@
 
 - [BrightSlide PPT 插件](https://www.brightcarbon.com/brightslide/)
 
-  该插件支持 [Windows](https://www.brightcarbon.com/brightslide/?os=windows) 与 [MacOS](https://www.brightcarbon.com/brightslide/?os=mac) 系统，这里用到了它的[添加动作路径](https://www.brightcarbon.com/brightslide/help/#:~:text=Paste%20as%20Motion%20Path)和[动画格式刷](https://www.brightcarbon.com/brightslide/help/#:~:text=Animation%20Painter)功能；
+  该插件支持 [Windows](https://www.brightcarbon.com/brightslide/?os=windows) 与 [MacOS](https://www.brightcarbon.com/brightslide/?os=mac) 系统，这里用到了它的[粘贴为动作路径](https://www.brightcarbon.com/brightslide/help/#:~:text=Paste%20as%20Motion%20Path)和[动画刷](https://www.brightcarbon.com/brightslide/help/#:~:text=Animation%20Painter)功能；
 
 - [ScreenToGif](https://www.screentogif.com/)*
 
